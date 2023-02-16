@@ -30,6 +30,7 @@
                     </ul>
                     <div class="d-flex align-items-center">
                         <a class="font-weight-bolder text-light mx-2 text-decoration-none" href="./admin">Admin Panel</a>
+                        <a class="font-weight-bolder text-light mx-2 text-decoration-none" href="./residents">Residents Panel</a>
                     </div>
                 </div>
             </div>
