@@ -61,7 +61,7 @@
                         <li class="nav-item">
                           <a href="./?page=pages/about" class="nav-link tree-item nav-pages_about">
                             <i class="far fa-circle nav-icon"></i>
-                            <p>About Countent</p>
+                            <p>About Content</p>
                           </a>
                         </li>
                         <li class="nav-item">
