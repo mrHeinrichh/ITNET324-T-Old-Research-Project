@@ -55,7 +55,7 @@
     </script>
     <script src="<?php echo base_url ?>dist/js/script.js"></script>
     <script src="<?php echo base_url ?>assets/js/scripts.js"></script>
-    <?php echo html_entity_decode($_settings->load_data()); ?>
+   
     <style>
     #main-header{
         position:relative;
